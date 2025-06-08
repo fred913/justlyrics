@@ -1,0 +1,176 @@
+Lakelink's University Campus Access Public License (LKLK-CAPL), Version 3.0, July 2025
+
+We (Lakelink Studios) hereby grant open-source rights to anyone who has ever been authorized to enter any campus of the listed universities in Hangzhou, Zhejiang Province, People’s Republic of China. Those “Tier 1 Licensees” receive perpetual, irrevocable rights comparable to the GPL. Anyone else (“Tier 2 Licensees”) receives only limited, non-redistributable access to build artifacts and source code, and may modify privately but may not copy or share the Work or any derivative.
+
+⸻
+
+Preamble
+
+We at Lakelink Studios believe that software and creative works thrive when shared freely.  In recognition of the special community formed by individuals who have, at any time, held lawful campus access to certain universities located in Hangzhou, Zhejiang Province, People’s Republic of China, we grant permanent, irrevocable rights to those individuals.  Once granted, these rights continue even if a person’s campus access is later revoked or expires.
+
+By distributing or modifying any Work under this license, you (whether a Tier 1 or Tier 2 Licensee) acknowledge and accept these terms.
+
+⸻
+
+1. Definitions
+	1.	“We,” “Us,” or “Our”
+Refers to Lakelink Studios, the sole author and steward of this LKLK-CAPL (Version 3.0).
+	2.	“Authorized Campus”
+Any physical campus or facility of the following institutions, all located in Hangzhou, Zhejiang Province, People’s Republic of China:
+	1.	Westlake University – Yunqi Campus, 18 Shilongshan Road, Yuhang District, Hangzhou, Zhejiang 310024.
+	2.	Zhejiang University – Yuquan Campus (or any other ZJU campus), 38 Zheda Road, Xihu District, Hangzhou, Zhejiang 310027.
+	3.	Any other campus or facility of the institutions listed above, provided that such campus or facility is officially recognised by the respective university as part of its institutional mission.
+Whenever a person has been granted lawful, university-issued permission to enter any Authorized Campus—whether as a student (bachelor’s, master’s, doctoral), visiting scholar, intern, contractor, vendor, guest, or staff member—that person qualifies as a “Tier 1 Licensee,” and that status remains valid for all purposes of this license, even if their entry privileges are later suspended or revoked.
+	3.	“Tier 1 Licensee” (a.k.a. “Authorized Individual”)
+Any natural person who, at any time (past or present), has held valid permission—through official channels—to physically enter any Authorized Campus listed above.
+	•	Examples include undergraduates, graduate students (master’s/Ph.D.), faculty, staff, visiting researchers, interns, contractors, vendors, conference attendees, and guests with temporary access credentials.
+	•	Once you become a Tier 1 Licensee, neither we (Lakelink Studios) nor anyone else can revoke your perpetual open-source rights granted under Section 2, regardless of later changes to your campus access status.
+	4.	“Tier 2 Licensee”
+Any natural person who does not meet the Tier 1 definition.  Tier 2 Licensees receive only the limited rights described in Section 3.B below.
+	5.	“You” or “Licensee”
+Any Tier 1 or Tier 2 Licensee who exercises rights under this LKLK-CAPL.
+	6.	“Copyright Holder”
+For any Work, the person or entity that owns copyright to that Work.  In the case of projects we (Lakelink Studios) publish under LKLK-CAPL, we are the Copyright Holder.
+	7.	“Work”
+Any software (in source or binary form), documentation, or other creative material distributed under LKLK-CAPL.
+	8.	“Source Code”
+The preferred, human-readable form of the Work for making modifications, including all accompanying documentation and interface definitions.
+	9.	“Object Code”
+Any non-source form of the Work (compiled, assembled, or otherwise transformed into machine-readable form).
+	10.	“Derivative Work”
+Any work, whether in Source or Object Code form, that is based upon (or derived from) the Work (or any portion thereof), including modifications, translations, adaptations, extensions, or combinations with other material.
+	11.	“Distributor”
+Any Licensee who makes the Work or a Derivative Work available—publicly or privately—to any third party, by any medium or channel.
+	12.	“Perpetual”
+An everlasting right that does not expire and cannot be revoked, except as explicitly stated in this license.
+	13.	“Irrevocable”
+Once rights are granted (either in Section 2 for Tier 1 or Section 3.B for Tier 2), they cannot be rescinded by any party (including us), except in cases of material breach.
+
+⸻
+
+2. Grant of Rights to Tier 1 Licensees
+
+We, Lakelink Studios, hereby grant each Tier 1 Licensee, worldwide, on a perpetual, irrevocable, royalty-free, fully paid-up, non-exclusive basis, all rights to:
+	1.	Use the Work for any purpose (personal, academic, or commercial).
+	2.	Reproduce and make copies of the Work, in Source Code or Object Code form.
+	3.	Prepare Derivative Works based upon the Work; reproduce, distribute, publicly perform, or publicly display those Derivative Works.
+	4.	Distribute copies of the original Work or any Derivative Work to any third party—whether that third party is a Tier 1 or Tier 2 Licensee—provided all conditions in Section 3.A are met.
+	5.	Sublicense any of the foregoing rights, in Source Code or Object Code form, so long as each sublicensee is given or otherwise obtains a complete copy of this LKLK-CAPL (Version 3.0) and agrees to be bound by its terms.
+
+These rights are irrevocable and survive any subsequent loss or revocation of campus access.  No further permission from us (Lakelink Studios) or any other Copyright Holder is required.
+
+⸻
+
+3. Conditions and Limitations
+
+A. Conditions for Tier 1 Licensees
+
+All Tier 1 distributions (original Work or Derivative Work) must comply with every condition below.  Failure to satisfy even one condition terminates the right to distribute under this LKLK-CAPL:
+	1.	Preserve Notices and Attributions
+a. You must retain, unmodified, all existing copyright notices, trademark legends (if any), attribution statements, and disclaimers present in the original Work.
+b. If you modify any file, you must insert at the top of that file a clear notice:
+
+// Modified by [Your Name] on [YYYY-MM-DD]: [Brief description of changes]
+
+
+	2.	Include This License
+a. Every copy of the Work or a Derivative Work—whether in Source Code or Object Code form—must include a complete, unmodified copy of this LKLK-CAPL (Version 3.0) in a file named LICENSE or embedded in the documentation.
+b. If you distribute only Object Code (binaries), you must also provide either:
+• A written offer (valid for at least three (3) years) to supply any recipient with a complete copy of the corresponding Source Code on request for a nominal fee (e.g., actual media cost), or
+• A clearly documented URL (publicly accessible via HTTP/HTTPS) where the complete Source Code can be downloaded at no charge.
+	3.	No Additional Restrictions
+a. You may not impose any further legal, contractual, or technological restrictions on the rights granted by this LKLK-CAPL.
+b. You may not require royalty payments or fees from any Licensee for exercising any of the rights granted herein.
+c. You may not discriminate against any Licensee based on academic program, nationality, or whether their campus access is currently active or has been revoked.
+	4.	Irrevocability of Tier 1 Status
+a. Once a person qualifies as a Tier 1 Licensee, neither we (Lakelink Studios) nor any university (Authorized Campuses listed above, in the case of Tier 1 Licensees) nor any other Copyright Holder may revoke that individual’s perpetual license rights under this Section 2.
+	5.	Compatibility with Other Licenses
+a. You may combine or distribute the Work alongside other code (open-source or proprietary), provided that all license terms for each component are honored.
+b. If you incorporate the Work into a larger project governed by a license that requires derivative works to be released under specific terms (e.g., a copyleft license), you must ensure that the combined distribution does not violate any applicable obligations.
+c. Nothing in this LKLK-CAPL forces you to relicense an existing codebase; you may continue under the license(s) that already govern each component, so long as you do not override LKLK-CAPL’s requirements for the portions of the code that are licensed under LKLK-CAPL.
+
+⸻
+
+B. Rights for Tier 2 Licensees (Limited Access)
+
+Any person who does not meet the Tier 1 definition (i.e., never held valid campus entry to any of the Authorized Campuses listed above, in the case of Tier 1 Licensees) receives only the following, non-transferable, non-sublicensable rights:
+	1.	View Build Artifacts and Source Code
+a. You may download and inspect any published build artifacts (e.g., compiled binaries) and the corresponding Source Code.
+b. You may run those build artifacts on your own devices for evaluation or academic study.
+	2.	Modify Source Code for Private Use
+a. You may modify the Source Code for your own, private, academic, or non-commercial experimentation.
+b. You may build or compile modified versions for your own private use.
+	3.	Redistribution Rights for Build Artifacts
+a. You may copy and redistribute the original build artifacts (compiled binaries) to any third party.
+b. You may distribute build artifacts compiled from your own modifications for personal use.
+	4.	Limitations on Source Code Modification and Redistribution
+a. You may not distribute or redistribute the original Source Code or modified Source Code to any third party.
+b. You may not publish, sublicense, sell, rent, or otherwise make available the original Source Code or any modified Source Code.
+c. Personal-usage modification and redistribution of your own compiled build artifacts is permitted.
+	5.	Reinstatement to Tier 1 Rights if Authorized
+If you subsequently become a Tier 1 Licensee (e.g., you later receive valid campus entry), you immediately acquire the full Tier 1 rights under Section 2, effective retroactively.
+	6.	No Warranty or Support
+The build artifacts and Source Code are provided “as is.”  Tier 2 Licensees have no right to demand updates, bug fixes, or technical support from us or any other party.
+
+⸻
+
+4. Disclaimer of Warranty
+
+THE WORK AND ANY DERIVATIVE WORKS ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. NEITHER WE (LAKELINK STUDIOS), NOR ANY COPYRIGHT HOLDER, NOR ANY UNIVERSITY (AUTHORIZED CAMPUSES LISTED ABOVE, IN THE CASE OF Tier 1 LICENSEES) SHALL BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE.
+
+⸻
+
+5. Limitation of Liability
+
+IN NO EVENT SHALL WE (LAKELINK STUDIOS), ANY COPYRIGHT HOLDER, OR ANY UNIVERSITY (AUTHORIZED CAMPUSES LISTED ABOVE, IN THE CASE OF Tier 1 LICENSEES) BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) ARISING OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE TOTAL LIABILITY OF ALL PARTIES UNDER THIS LICENSE SHALL NOT EXCEED ONE U.S. DOLLAR (USD $1.00), OR THE AMOUNT ACTUALLY PAID BY A LICENSEE FOR A COPY OF THE WORK, WHICHEVER IS GREATER.
+
+⸻
+
+6. Termination
+	1.	Tier 1 Automatic Termination
+If a Tier 1 Licensee’s distributions violate any condition in Section 3.A, their distribution rights under Section 2 terminate automatically upon breach.
+	2.	Tier 2 Automatic Termination
+If a Tier 2 Licensee attempts to distribute or publicly share the original Source Code or modified Source Code, their limited rights under Section 3.B terminate immediately.
+	3.	Reinstatement of Rights
+a. Tier 1: If a Tier 1 Licensee’s distribution rights are terminated for breach, they may restore those rights only if they cure all violations within thirty (30) days after receiving written notice from us or another Copyright Holder, and provide written assurance that they will comply going forward.
+b. Tier 2: If a Tier 2 Licensee’s rights are terminated for improper distribution attempts, they may regain Tier 2 rights only by lawfully obtaining campus access (becoming a Tier 1 Licensee).
+	4.	Survival of Terms
+Sections 1 (Definitions), 4 (Disclaimer of Warranty), 5 (Limitation of Liability), and 6 (Termination) survive any termination of distribution rights.
+
+⸻
+
+7. Accepting the License
+
+By exercising any rights granted herein—whether as a Tier 1 or Tier 2 Licensee—you agree to be bound by all terms of this LKLK-CAPL. If you disagree with any term, do not download, run, copy, modify, or distribute the Work.
+
+⸻
+
+8. Miscellaneous
+	1.	No Trademark Grant
+This LKLK-CAPL does not grant permission to use any trademark, service mark, or trade name of ours (Lakelink Studios), or any of the Authorized Campuses, as listed above, in the case of Tier 1 Licensees, except as needed to identify the origin of the Work or as explicitly permitted by separate written permission.
+	2.	Severability
+If any provision of this LKLK-CAPL is held invalid or unenforceable under applicable law, that provision shall be enforced to the maximum extent permissible, and the remainder of the license shall remain in full force and effect.
+	3.	Governing Law and Venue
+This license shall be governed by and construed under the laws of the People’s Republic of China. Any dispute arising under or in connection with this license shall be resolved in the courts of Zhejiang Province, PRC.
+	4.	Future Revisions
+We (Lakelink Studios) reserve the right to publish revised versions of LKLK-CAPL. Each new version will carry a distinct version number (e.g., 3.1, 4.0). Distribution of a Work under a given version of LKLK-CAPL does not automatically subject it to later versions—Licensees may choose to follow later versions or remain under the version originally distributed.
+
+⸻
+
+Appendix: Suggested Attribution Notice
+
+When Tier 1 Licensees distribute (or make publicly available) a Work or any Derivative Work under LKLK-CAPL, they might include a notice such as:
+
+© [Year] Lakelink Studios
+
+Licensed under the Lakelink's University Campus Access Public License (LKLK-CAPL) Version 3.0:
+https://example.org/LKLK-CAPL-3.0.txt
+
+By exercising your rights under LKLK-CAPL, you affirm that you have read and understand this license and you confirm whether you're authorized as Tier 1 or Tier 2. Rights might differ depending on your authorization status.
+
+These rights are perpetual and irrevocable.
+
+
+⸻
+
+End of Lakelink's University Campus Access Public License (LKLK-CAPL) Version 3.0
