@@ -1,7 +1,5 @@
 import { isCJKChar } from './utils'
 
-declare const unsafeWindow: typeof window
-
 export namespace CoreLyric {
     export class Timestamp {
         static max(...timestamps: (Timestamp | null)[]): Timestamp {
@@ -1112,7 +1110,7 @@ export namespace LyricFormat {
     ): Promise<string | null> {
         const fileTypes = languageExtensions.map((ext) => `${ext}`)
         // @ts-ignore
-        const fileHandles = await unsafeWindow.showOpenFilePicker({
+        const fileHandles = await window.showOpenFilePicker({
             types: [
                 {
                     description,
@@ -1139,7 +1137,7 @@ export namespace LyricFormat {
     ): Promise<boolean> {
         const fileTypes = languageExtensions.map((ext) => `${ext}`)
         // @ts-ignore
-        const fileHandle = await unsafeWindow.showSaveFilePicker({
+        const fileHandle = await window.showSaveFilePicker({
             types: [
                 {
                     description,
